@@ -2,10 +2,6 @@
 
 This is a demo from my Text based adventure using OOP from my Y12 which includes the game mechanics but lacks story. These mechanics include an open world system through coordinates and an item system.
 
-If you have any queries about the code, programming concepts or anything A level Computer Science, send me an email at
-
-james.luong@school21.org.uk
-
 -------------------------------------------------------------------
 
 Ideas I wanted to include:
